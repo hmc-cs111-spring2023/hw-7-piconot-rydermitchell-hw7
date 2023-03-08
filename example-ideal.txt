@@ -1,0 +1,17 @@
+from findBottomRightCorner in Empty Empty Empty South to West
+from findBottomRightCorner in Empty Empty West South to North
+from findBottomRightCorner in North Empty West Empty to East
+from findBottomRightCorner in Empty Empty West Empty to North
+from findBottomRightCorner in Empty Empty Empty Empty to North
+from findBottomRightCorner in North Empty Empty Empty to East
+from findBottomRightCorner in North East Empty Empty to South
+from findBottomRightCorner in Empty East Empty Empty to South
+from findBottomRightCorner in Empty East Empty South to West in goNorth
+from goNorth in Empty Empty Empty South to North
+from goNorth in Empty Empty Empty Empty to North
+from goNorth in North Empty Empty Empty to West in goSouth
+from goSouth in North Empty Empty Empty to South
+from goSouth in Empty Empty Empty Empty to South
+from goSouth in Empty Empty Empty South to West in goNorth
+from goSouth in North Empty West Empty to South
+from goSouth in Empty Empty West Empty to South
