@@ -1,0 +1,17 @@
+from 0 in x x x S to W in 0
+from 0 in x x W S to N in 0
+from 0 in N x W x to E in 0
+from 0 in x x W x to N in 0
+from 0 in x x x x to N in 0
+from 0 in N x x x to E in 0
+from 0 in N E x x to S in 0
+from 0 in x E x x to S in 0
+from 0 in x E x S to W in 1
+from 1 in x x x S to N in 1
+from 1 in x x x x to N in 1
+from 1 in N x x x to W in 2
+from 2 in N x x x to S in 2
+from 2 in x x x x to S in 2
+from 2 in x x x S to W in 1
+from 2 in N x W x to S in 2
+from 2 in x x W x to S in 2
